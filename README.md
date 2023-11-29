@@ -42,7 +42,7 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/cifumo"><img src="https://github-profile-trophy.vercel.app/?username=ShirokamiRyzen&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/cifumo"><img src="https://github-profile-trophy.vercel.app/?username=cifumo&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 <div>
@@ -94,7 +94,7 @@ most used social media</p>
 
 <p align="center">
 <a href="https://www.instagram.com/tyoochann" target="_blank"><img src="https://img.shields.io/badge/-tyoochann-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/akiraid" target="_blank"><img src="https://img.shields.io/badge/-Akira%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<a href="https://wa.me/" target="_blank"><img src="https://img.shields.io/badge/-Cifumo%20ID-green?&style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 </p>
 </div>
 </center>
