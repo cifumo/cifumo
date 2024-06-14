@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <p align="center">
-    <a href="https://ryzn.my.id/">
+    <a href="https://rest.cifumo.biz.id">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Cifumo"
             alt="Cifumo"
