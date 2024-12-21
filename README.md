@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center"> 💖 ~ WELCOME ~ 💖 </h1>
+<h1 align="center"> 💖 ~ Youkoso ~ 💖 </h1>
 <br>
 <p align="center">
   <p align="center">
@@ -13,7 +13,7 @@
 </p>
 <a href="https://github.com/cifumo"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/cifumo"><img src="https://cardivo.vercel.app/api?name=Tyoo&description=Hi,%20Im%20Cifumo%20and%20i%20love%20Zalpa&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=tyoochann&github=Cifumo&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/cifumo"><img src="https://cardivo.vercel.app/api?name=Tyoo&description=Hi,%20Im%20Cifumo%20and%20i%20love%20Emilia&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=tyoochann&github=Cifumo&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <details open>
@@ -23,7 +23,8 @@
 </details>
 </div>
 
-[![An image of @cifumo Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cifumo)](https://holopin.io/@cifumo)
+<h2 align="center"> ⚙️ ~ GITHUB COMMIT ~ ⚙️ </h2>
+![snake gif](https://github.com/cifumo/cifumo/blob/output/github-snake-dark.svg)
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
     
@@ -54,13 +55,13 @@
  <b>Name:</b> cifumo
 </li>
 <li>
-<b>Loves:</b> Zalpa, Anime, Games, Music, Girl
+<b>Loves:</b> Emilia, Anime, Games, Music, Girl
 </li>
 <li>
 <b>Gender:</b> Attack Helicopter
 </li>
 <li>
-<b>Website</b> https://www.ryzendesu.com
+<b>Website</b> https://rest.cifumo.xyz
 </li>
 <li>
 <b>Hobbys:</b> Web Development
