@@ -24,6 +24,7 @@
 </div>
 
 <h2 align="center"> ⚙️ ~ GITHUB COMMIT ~ ⚙️ </h2>
+
 ![snake gif](https://github.com/cifumo/cifumo/blob/output/github-snake-dark.svg)
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
